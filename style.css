@@ -179,7 +179,7 @@ nav ul {
 
 .form-wrapper {
   background: rgba(19, 28, 39, 0.8);
-  width: 60%;
+  width: 90%;
   color: #fff;
   border-radius: 20px;
 }
@@ -189,7 +189,7 @@ nav ul {
 }
 .name-form,
 .email-form {
-  padding: 3rem;
+  padding: 2rem;
   text-align: center;
 }
 .form-wrapper label {
