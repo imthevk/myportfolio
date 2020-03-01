@@ -83,7 +83,7 @@ nav ul {
 }
 #hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/Person\ Looking\ at\ Phone\ and\ at\ Macbook\ Pro.jpg");
+    url("./img/Person\ Looking\ at\ Phone\ and\ at\ Macbook\ Pro.jpg");
   min-height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -103,7 +103,7 @@ nav ul {
 #benefits {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/profile_boy.jpg");
+    url("./img/profile_boy.jpg");
   background-size: cover;
   background-position: center;
   display: flex;
@@ -169,7 +169,7 @@ nav ul {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/Neourban\ Hipster\ Office\ Desktop.jpg");
+    url("./img/Neourban\ Hipster\ Office\ Desktop.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
